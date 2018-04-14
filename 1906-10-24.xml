@@ -335,7 +335,7 @@
                             Moderate Fares for single and return tickets.</p>
                         <p>The <name>S S. SARDINIA</name> will sail for
                                 <placeName>Liverpool</placeName> (via Bona) on <date
-                                when="1905-07-07">Friday, the 7th inst.</date> at 4 p.m.</p>
+                                when="1905-10-19">Friday, the 19th inst.</date> at 4 p.m.</p>
                         <p>CARGO taken by special agreement only. Through Freights quoted for the
                             UNITED STATES and INLAND TOWNS in GREAT BRITAIN.</p>
                         <p>For passage or freight apply to the Agents, BARKER &amp; Co., Alexandria.
@@ -3297,12 +3297,12 @@
                     <p>Novembre........................... „ 17 9/16 „ — 19/32</p>
                     <p>Janvier................................. „ 17 3/4 „ _ 26/32</p>
                     <p>Mars...................................... 18 1/16 ,----------------- </p>
-                    <p>Mai ■..................................... 18 1/2 „---------- </p>
+                    <p>Mai .....................................  18 1/2 „---------- </p>
                     <p>Juillet . ... „ 18 13/16 „----------- </p>
                     <p>, Graines de coton</p>
                     <p>Novembre-Décembre-Jan. P.T.65 5/40 à — 10/40</p>
                     <p>Février-Mars....................... „ 66 25/40 — 3/4</p>
-                    <p>Fèces Saidi *</p>
+                    <p>Fèces Saidi </p>
                     <p>Novembre-Décembre-Jan. P.T. 112 — à 114 — Remarques</p>
                     <p>Coton.—Récolté actuelle.—La séance de l'après-midi a été plys intéressante
                         mais somme toute la tenue a ete assez soutenus. La petite speculation est
@@ -3318,9 +3318,9 @@
                     <p>New-York : coton américain : Futurs : janvier : 11.00 » .. „ „ mai: 11.23</p>
                     <p>Graines de coton.—Récolte actuelle.—Marche toujours inactif mais prix très
                         fermes.</p>
-                    <p>Dans la matinée prix plus haut pour 3 mois P.T. 65 10/40 à —■/— ; plus bas
+                    <p>Dans la matinée prix plus haut pour 3 mois P.T. 65 10/40 à ; plus bas
                         pour 3 mois 65 10/40 à —/—. Dans l'après-midi, prix plus haut pour 3 mois 65
-                        1/4 à —/-• ; plus bas pour 3 mois 65 5/40 à N,■ B.—Reporta—Inchanges.</p>
+                        1/4 à  ; plus bas pour 3 mois 65 5/40 à N, B.—Reporta—Inchanges.</p>
                     <p>Alexandrie, le 23 octobre 1906.</p>
                 </div>
                 <div type="article" scope="financial" xml:lang="fr" xml:id="deg-el-ctns01">
@@ -3329,69 +3329,125 @@
                     <p>DE L'ALEXANDRIA GENERAL PRODUCE ASSOCIATION</p>
                     <p>à la</p>
                     <p>LIVERPOOL COTTON ASSOCIATION</p>
-                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 9h. 45 a.m.) </p>
+                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 5h. p.m.) </p>
                     <table rows="4" cols="4" xml:id="deg-ta-ctns01">
                         <row>
                             <cell>Tal.</cell>
-                            <cell><measure unit="tal">14 7/8</measure></cell>
+                            <cell><measure unit="tal">17 5/8</measure></cell>
                             <cell>Livraison</cell>
-                            <cell>Juillet</cell>
-                        </row>
-                        <row>
-                            <cell>,,</cell>
-                            <cell><measure unit="tal">15 3/16</measure></cell>
-                            <cell>,,</cell>
-                            <cell>Août</cell>
-                        </row>
-                        <row>
-                            <cell>,,</cell>
-                            <cell><measure unit="tal">14 23/32</measure></cell>
-                            <cell>,,</cell>
                             <cell>Novembre</cell>
                         </row>
                         <row>
                             <cell>,,</cell>
-                            <cell><measure unit="tal">14 5/8</measure></cell>
+                            <cell><measure unit="tal">17 25/32</measure></cell>
                             <cell>,,</cell>
                             <cell>Janvier</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 1/16</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mars</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 15/32</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mai</cell>
                         </row>
                     </table>
                     <p>Marché ferme</p>
-                    <p>Arrivages de ce jour, à Minet-el-Bassal, cantars <measure unit="cantar"
-                            >1008</measure></p>
-                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 12h. 45 p.m.)</p>
+                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 6h. p.m.) </p>
                     <table rows="4" cols="4" xml:id="deg-ta-ctns02">
                         <row>
                             <cell>Tal.</cell>
-                            <cell><measure unit="tal">14 15/16</measure></cell>
+                            <cell><measure unit="tal">17 9/16</measure></cell>
                             <cell>Livraison</cell>
-                            <cell>Juillet</cell>
-                        </row>
-                        <row>
-                            <cell>,,</cell>
-                            <cell><measure unit="tal">15 1/4</measure></cell>
-                            <cell>,,</cell>
-                            <cell>Août</cell>
-                        </row>
-                        <row>
-                            <cell>,,</cell>
-                            <cell><measure unit="tal">14 7/8</measure></cell>
-                            <cell>,,</cell>
                             <cell>Novembre</cell>
                         </row>
                         <row>
                             <cell>,,</cell>
-                            <cell><measure unit="tal">14 25/32</measure></cell>
+                            <cell><measure unit="tal">17 3/4</measure></cell>
                             <cell>,,</cell>
                             <cell>Janvier</cell>
                         </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 1/16</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mars</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 1/2</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mai</cell>
+                        </row>
                     </table>
-                    <p>Marché quiet</p>
+                    <p>Marche Ferme</p>
+                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 9h.45 a.m.) </p>
+                    <table rows="4" cols="4" xml:id="deg-ta-ctns03">
+                        <row>
+                            <cell>Tal.</cell>
+                            <cell><measure unit="tal">17 5/8</measure></cell>
+                            <cell>Livraison</cell>
+                            <cell>Novembre</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">17 25/32</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Janvier</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 1/8</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mars</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 17/32</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mai</cell>
+                        </row>
+                    </table>
+                    <p>Marche ferme</p>
+                    <p>Arrivages de ce jour, à Minet-el-Bassal, cantars <measure unit="cantar"
+                        >1008</measure></p>
+                    <p>(Cours pratiqués ce jour à la Bourse Khédiviale à 12h. 45 p.m.)</p>
+                    <table rows="4" cols="4" xml:id="deg-ta-ctns04">
+                        <row>
+                            <cell>Tal.</cell>
+                            <cell><measure unit="tal">17 3/4</measure></cell>
+                            <cell>Livraison</cell>
+                            <cell>Novembre</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">17 29/32</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Janvier</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 7/32</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mars</cell>
+                        </row>
+                        <row>
+                            <cell>,,</cell>
+                            <cell><measure unit="tal">18 11/16</measure></cell>
+                            <cell>,,</cell>
+                            <cell>Mai</cell>
+                        </row>
+                    </table>
+                    <p>Marché steady</p>
                 </div>
                 <div type="section" scope="financial" xml:lang="fr" xml:id="deg-el-mmeb01">
                 <head>MARCHE DE MINET-EL-BASSAL</head>
                 <dateline><date when="1906-10-24">24 octobre 1906</date>.—(11h.55 a.m.)</dateline>
-                <p><hi rend="italic">Cotons</hi> —Clôture du marché du <date when="1905-07-11">11 juillet</date>: Ferme et en
+                <p><hi rend="italic">Cotons</hi> —Clôture du marché du <date when="1906-10-22">22 octobre</date>: Ferme et en
                     hausse de 1/8. </p>
                 <table cols="6" xml:id="deg-ta-mmeb01">
                     <row role="label"><cell cols="6">BEURRES</cell></row>
@@ -3581,8 +3637,8 @@
                 <table rows="4" cols="3" xml:id="deg-ta-mmeb03">
                     <row role="label">
                         <cell>Exportation</cell>
-                        <cell>du <date when="1905-07-11">11 juil.</date></cell>
-                        <cell>depuis le <date when="1905-07-07">7 juil.</date></cell>
+                        <cell>du <date when="1906-10-22">22 oct.</date></cell>
+                        <cell>depuis le <date when="1906-10-14">14 oct.</date></cell>
                     </row>
                     <row>
                         <cell>Coton</cell>
@@ -3980,7 +4036,7 @@
                 </div>
                 <div type="article" xml:lang="fr" xml:id="deg-el-extr01">
                     <head>Exterieur</head>
-                    <p>Dépêches particulières du <date when="1905-07-11">11 juillet 1905</date></p>
+                    <p>Dépêches particulières du <date when="1906-10-22">22 octobre 1906</date></p>
                     <p>PRODUITS EGYPTIENS</p>
                     <p>LIVERPOOL</p>
                     <p><hi rend="italic">Coton: Etat du Marché</hi>.—Soutenu</p>
@@ -4907,7 +4963,7 @@
                             of a hundredth part of that som, (“Tribune.”)</p>
     </div>
 </div>
-                <div type="item">
+                <div type="section" element="comingEvents">
                     <p>Calendar of Coming Events</p>
                     <p>ALEXANDRIA</p>
                     <p>October. \</p>
@@ -5089,8 +5145,8 @@
                     <head type="sub">CLOSING REPORTS</head>
                     <table cols="4" xml:id="deg-ta-reut01">
                         <row role="label">
-                            <cell cols="4"><placeName>Liverpool</placeName>, <time when="1905-07-08"
-                                    >October 23, 12.40 p.m.</time></cell>
+                            <cell cols="4"><placeName>Liverpool</placeName>, <time when="1906-10-22"
+                                    >October 22, 12.40 p.m.</time></cell>
                         </row>
                         <row>
                             <cell>Sales of the day</cell>
@@ -5273,8 +5329,8 @@
                             <cell><measure>3,000</measure></cell>
                         </row>
                         <row role="label">
-                            <cell cols="4"><placeName>London</placeName>, <date when="1905-07-08"
-                                    >October 20</date>.</cell>
+                            <cell cols="4"><placeName>London</placeName>, <date when="1906-10-22"
+                                    >October 22</date>.</cell>
                         </row>
                         <row>
                             <cell>Consols (August)</cell>
@@ -5295,8 +5351,8 @@
                             <cell><measure>1 7/8%</measure></cell>
                         </row>
                         <row role="label">
-                            <cell cols="4"><placeName>New-York</placeName>, <date when="1904-07-08"
-                                    >October 20</date>.</cell>
+                            <cell cols="4"><placeName>New-York</placeName>, <date when="1906-10-22"
+                                    >October 22</date>.</cell>
                         </row>
                         <row>
                             <cell cols="2">Stock at all U.-S. ports</cell>
@@ -5361,8 +5417,8 @@
                             <cell><measure>11,000</measure></cell>
                         </row>
                         <row role="label">
-                            <cell cols="4"><placeName>Liverpool</placeName>, <date when="1905-07-08"
-                                    >October 20</date>.</cell>
+                            <cell cols="4"><placeName>Liverpool</placeName>, <date when="1906-10-22"
+                                    >October 22</date>.</cell>
                         </row>
                         <row>
                             <cell>American futures </cell>
@@ -5394,8 +5450,8 @@
                             <cell/>
                         </row>
                         <row role="label">
-                            <cell cols="4"><placeName>London</placeName>, <date when="1905-07-08"
-                                    >October 20</date>.</cell>
+                            <cell cols="4"><placeName>London</placeName>, <date when="1906-10-22"
+                                    >October 22</date>.</cell>
                         </row>
                         <row>
                             <cell cols="3">Private discount (3 month bills)</cell>
@@ -5522,7 +5578,7 @@
                             <cell><measure>48 5/8 %</measure></cell>
                         </row>
                         <row role="label">
-                            <cell cols="4"><placeName>Paris</placeName>, <date when="1905-07-08"
+                            <cell cols="4"><placeName>Paris</placeName>, <date when="1906-10-22"
                                     >October 22</date>.</cell>
                         </row>
                         <row>
